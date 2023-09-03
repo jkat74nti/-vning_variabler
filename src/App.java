@@ -30,6 +30,7 @@ public class App {
         System.out.println("Produkten av tal1*tal2 är "+produkt);
         System.out.println("Kvoten av tal1/tal2 är "+kvot);
         System.out.println("SLUT");
+        System.out.println("Inte");
 
     }
 }
